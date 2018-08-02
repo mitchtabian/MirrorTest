@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MirrorTest</string>
+
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_birthday">Birthday</string>
+    <string name="prompt_location">Location</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="password2">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="save">Save</string>
+    <string name="register">Register</string>
+
+    <!-- extras -->
+    <string name="user_object">user_object</string>
+
+</resources>
